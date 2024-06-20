@@ -16,3 +16,19 @@ https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/noteboo
 
 ## Modelleme Aşaması
 ##### Deneme ve karşılaştırma amaçlı 2 Model tercih ettim: Yolov8 ve Yolov9
+YOLOV8 Modeli:
+![image](https://github.com/Leylaleyn/UAV_Detection/assets/96663646/dc4e28ac-8ed1-4d22-bf3d-cb0234713c77)
+Sonuçlar:
+![image](https://github.com/Leylaleyn/UAV_Detection/assets/96663646/1849db74-303e-403b-bebb-4cb7be7635d2)
+![image](https://github.com/Leylaleyn/UAV_Detection/assets/96663646/6bc346ac-12ba-4cdb-a200-dc1b46e631ce)
+![val_batch1_labels](https://github.com/Leylaleyn/UAV_Detection/assets/96663646/5b1483ef-d514-40c1-ae20-288f8bb7ae99)
+
+YOLOV9 Modeli:
+![image](https://github.com/Leylaleyn/UAV_Detection/assets/96663646/f7efa9d8-bffc-4e05-b157-9a14fbf6d074)
+Sonuçlar:
+![image](https://github.com/Leylaleyn/UAV_Detection/assets/96663646/6140aa5f-61b7-4839-9ead-86e97de1ef5e)
+![image](https://github.com/Leylaleyn/UAV_Detection/assets/96663646/afa2faec-8ee5-4950-943d-6a1919b4ce1c)
+![val_batch0_pred](https://github.com/Leylaleyn/UAV_Detection/assets/96663646/d080d1b5-b2ab-4c9e-a6de-837adc760e76)
+
+
+
