@@ -6,7 +6,7 @@
 #### Verileri Ön İşleme
 ![preprocessing](https://github.com/Leylaleyn/UAV_Detection/assets/96663646/750e3728-ca90-406f-b261-5b11e52cceba)
 
-##### Devamında Roboflow sitesinin sağladığı bir diğer faydalı özelliklerinden olan veri boyutunu ayarlama, veri arttırımı, otomatik train-test-valid ayarlamasını gerçekleştirdim. Bu sayede verilerim toplam 540 adet oldu.
+##### Devamında Roboflow sitesinin sağladığı bir diğer faydalı özelliklerinden olan veri boyutunu ayarlama, veri arttırımı, otomatik train-test-valid ayarlamasını gerçekleştirdim. Bu sayede verilerim toplam 520 adet oldu.
 ##### %70 train, %20 validation, %10 test için ayrıldı.
 
 ##### Not: Ben kodlarımı google colab ortamında çalıştırdım. Roboflow ile uyumlu yolo kodlarını incelemek isterseniz:
