@@ -1,5 +1,5 @@
 ## Önce Datasetini hazırlayarak başlayalım
-##### Youtube'dan farklı farklı uav videolarından toplam 200 adet olacak şekilde ekran görüntüsü aldım.(Proje sadece deneme amaçlı büyük projeler için en az 10000 görüntü olması bence daha iyi sonuçlar veriri)
+##### Youtube'dan farklı farklı uav videolarından toplam 200 adet olacak şekilde ekran görüntüsü aldım.(Proje sadece deneme amaçlı büyük projeler için en az 10000 görüntü olması bence daha iyi sonuçlar verir)
 #### Etiketleme
 ##### Daha sonra bu görüntüleri yolo modellerine uygun bir şekilde etiketlemem gerekiyordu, bu yüzden https://roboflow.com/ sitesinden yararlandım. Burada tek tek görüntüleri kare çerisine alarak etiketleme işlemi gerçekleştirdim.
 
